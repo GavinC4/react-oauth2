@@ -79,7 +79,7 @@ class Welcome extends Component {
             <br/><br/>
 
             <GoogleLogin
-              clientId="244047018856-rk63vp4le2aqflsv3o2m6au8gcmpta44.apps.googleusercontent.com"
+              clientId="256015097769-1li1taiafeek3udcvro7t3sporehrjj6.apps.googleusercontent.com"
               buttonText="Login with Google"
               onSuccess={responseGoogle}
               onFailure={responseGoogle}/>
